@@ -1,9 +1,10 @@
 {
   { "name": "LNP Web APP",  
   "short_name": "LNP Web APP", 
-  "theme_color": "#212C3B", 
-  "background_color": "#212C3B", 
-  "display": "standalone",  "scope": "/", 
+   "scope": "/",
+    "display": "standalone",
+    "background_color": "#2196F3",
+    "theme_color": "#2196F3",
   "start_url": "/scan-stransfer"}
   "icons": [
     {

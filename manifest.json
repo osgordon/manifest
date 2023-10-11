@@ -1,5 +1,5 @@
 {
-  { "name": "LNP Web APP",  
+   "name": "LNP Web APP",  
   "short_name": "LNP Web APP", 
    "scope": "/",
     "display": "standalone",
